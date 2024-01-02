@@ -1,6 +1,8 @@
 # PHP_login_test
 <h1>간단한 로그인 기능이 포함된 PHP 페이지 작성</h1>
+
 ![successful](https://github.com/OrangeSQZ/PHP_login_test/assets/35069197/0c1d4efe-f1ca-414f-af97-88e05cd68661)
+
 
 ![fail](https://github.com/OrangeSQZ/PHP_login_test/assets/35069197/1b145575-a420-4df6-a1e5-0f4b0dcd4ad2)
 
